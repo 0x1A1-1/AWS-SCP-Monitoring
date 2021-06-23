@@ -1,0 +1,16 @@
+.idea
+.vscode
+.terraform
+*.swp
+vendor
+
+crash.log
+terraform-*
+.terraform.lock.hcl
+*.tfstate*
+*.tfstate.backup
+*.tfplan
+*.tfplan.backup
+.terraform/
+.terraform.tfstate.lock.info
+*.iml
